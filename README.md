@@ -1,4 +1,4 @@
-# sanguo_td
+# SanguoTD
 An html5 game which is similar to a tower-defense game. The theme of this game is about Three Kingdoms (Sanguo) which is a great era in Chinese history.
 
 - **Author:** Yuehao Wang
