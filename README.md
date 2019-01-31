@@ -1,5 +1,5 @@
 # SanguoTD
-An html5 game which is similar to a tower-defense game. The theme of this game is about Three Kingdoms (Sanguo) which is a great era in Chinese history.
+An html5 game which is similar to a tower-defense game. The story of this game is set on Three Kingdoms (Sanguo) which is a great era in Chinese history.
 
 - **Author:** @yuehaowang & @peihaowang
 - **Game Engine:** lufylegend.js
